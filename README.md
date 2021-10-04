@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit
 - 👀 I’m interested in freelancing, consulting, contribution and collaboration
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 I can be reached at mail2amit.saha@yahoo.com
 

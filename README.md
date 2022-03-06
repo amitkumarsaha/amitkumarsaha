@@ -5,8 +5,8 @@
 <p align="left">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 
-<a href="https://www.linkedin.com/in/amitkumarsaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="mailto: mail2amit.saha@yahoo.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amitkumarsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto: mail2amit.saha@yahoo.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 # Introduction

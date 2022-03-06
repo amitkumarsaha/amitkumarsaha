@@ -38,6 +38,11 @@
     <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">                                                    
 </div>
+
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amitkumarsaha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
 <!--
 <div align="center">

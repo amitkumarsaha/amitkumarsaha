@@ -53,7 +53,7 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=amitkumarsaha&show_icons=true&theme=radical&line_height=27&include_all_commits=true&count_private=true">
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarsaha&hide=html,css,shaderlab,kotlin,hlsl,blade,less,shell&layout=normal&langs_count=7&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarsaha&hide=html,css,scss,shaderlab,kotlin,hlsl,blade,less,shell&layout=normal&langs_count=7&theme=radical">
 </p>
 
 <p align = "center">

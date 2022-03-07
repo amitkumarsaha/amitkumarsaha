@@ -6,7 +6,7 @@
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 
 <a href="https://www.linkedin.com/in/amitkumarsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto: mail2amit.saha@yahoo.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto: mail2amit.saha@yahoo.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 <a href="https://aksaha.dev" target="blank">
 🔗
 </a>

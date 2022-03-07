@@ -1,5 +1,5 @@
 <p>
-    <img align="center" alt="js" height="100%" width="100%" src="https://github.com/amitkumarsaha/amitkumarsaha/blob/main/header.png">
+    <img align="center" alt="Header" height="100%" width="100%" src="https://github.com/amitkumarsaha/amitkumarsaha/blob/main/header.png">
 </p>
 
 <p align="left">

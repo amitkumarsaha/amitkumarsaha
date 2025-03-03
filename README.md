@@ -16,7 +16,6 @@
 # Introduction
 
 - 👀 I’m interested in freelancing, consulting, contribution and collaboration
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything interesting
 
 # Technologies
@@ -31,11 +30,10 @@
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    <img align="center" alt="Gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
     <img align="center" alt="Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
     <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">                                                    
 </div>
 
@@ -52,22 +50,21 @@
 </div>
 -->
 
+
 # Github Statistics
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=amitkumarsaha&show_icons=true&theme=radical&line_height=27&include_all_commits=true&count_private=true">
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarsaha&hide=html,css,scss,shaderlab,kotlin,hlsl,blade,less,shell&layout=normal&langs_count=7&theme=radical">
+    <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarsaha&hide=html,css,scss,shaderlab,kotlin,hlsl,blade,less,shell&layout=compact&langs_count=7&theme=radical">
+    <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=amitkumarsaha&show_icons=true&theme=radical&line_height=27&include_all_commits=true&count_private=true">
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumarsaha&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+# Roadmap.sh
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=amitkumarsaha&theme=redical">
-</p> 
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67c4925d580201fc77d68f7f?variant=dark" alt="roadmap.sh"/></a>
+</p>
+
+
 
 <!---
 amitkumarsaha/amitkumarsaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

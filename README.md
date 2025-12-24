@@ -1,6 +1,6 @@
-<p>
+<!-- <p>
     <img align="center" alt="Header" height="100%" width="100%" src="https://github.com/amitkumarsaha/amitkumarsaha/blob/main/header.png">
-</p>
+</p> -->
 
 <p align="left">
 <a href="https://www.linkedin.com/in/amitkumarsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>

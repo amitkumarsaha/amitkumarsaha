@@ -3,9 +3,9 @@
 </p> -->
 
 <p align="left">
-<a href="https://www.linkedin.com/in/amitkumarsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto: mail2amit.saha@yahoo.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://aksaha.dev" target="blank">🔗</a>
+<a href="https://www.linkedin.com/in/amitkumarsaha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto: mail2amit.saha@yahoo.com" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://aksaha.dev" target="_blank">🔗</a>
 
 </p>
 
